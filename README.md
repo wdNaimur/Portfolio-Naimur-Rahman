@@ -29,7 +29,7 @@ This portfolio reflects my journey as a developer — built with care, clean des
 - 🎬 Smooth animations and scroll effects
 - 🧭 Scroll spy & dynamic navbar
 - 📩 Contact form with email support
-- 🌀 Loader, Lottie animations, and toast notifications
+- 🌀 Loader and toast notifications
 - 🧱 Clean gradient-based design and UI
 
 ---
