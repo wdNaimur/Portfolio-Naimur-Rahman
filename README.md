@@ -1,41 +1,46 @@
 # 🌐 Naimur Rahman's Portfolio
 
-A personal developer portfolio to showcase my skills, projects, and background as a full-stack web developer.
+A personal developer portfolio showcasing my skills, projects, and background as a **full-stack web developer**.
 
-🚀 **Live Site**: [https://wd-naimur.netlify.app](https://wd-naimur.netlify.app)
+🚀 **Live Site:** [https://naimurrahman.web.app](https://naimurrahman.web.app)
 
 ---
 
 ## 📌 About
 
-This portfolio is currently under construction as I’m exploring modern, effective designs and inspirations. I want it to be a reflection of both my abilities and attention to detail, so I'm taking the time to build it properly alongside focusing on my main course.
+This portfolio reflects my journey as a developer — built with care, clean design, and attention to detail. It highlights my projects, tools, and the technologies I use while ensuring a smooth and interactive user experience.
 
 ---
 
 ## 🛠 Tech Stack & Tools
 
-- **Frontend:** React.js, Vite  
-- **Styling:** Tailwind CSS  
-- **Animation & Effects:** Framer Motion, React Icons  
-- **Deployment:** Netlify  
+- **Frontend:** React.js, Vite
+- **Styling:** Tailwind CSS, DaisyUI
+- **Routing & Navigation:** React Router, React Scroll
+- **Animation & Effects:** Framer Motion, Lottie, React Icons
+- **Forms & Alerts:** EmailJS, SweetAlert2, React Hot Toast
+- **Deployment:** Firebase
 
+---
 
 ## 💡 Key Features
 
-- Fully responsive layout  
-- Custom animated header and sections  
-- Scroll-based and hover interactions  
-- Clean gradient-based design  
-- Easy to extend for future projects or blogs  
+- ⚡ Fully responsive layout
+- 🎬 Smooth animations and scroll effects
+- 🧭 Scroll spy & dynamic navbar
+- 📩 Contact form with email support
+- 🌀 Loader, Lottie animations, and toast notifications
+- 🧱 Clean gradient-based design and UI
 
+---
 
 ## 🔗 Links
 
-- **Live Site:** [https://wd-naimur.netlify.app](https://wd-naimur.netlify.app)  
+- **Live Site:** [https://naimurrahman.web.app](https://naimurrahman.web.app)
 
 ---
 
 ## 🖤 Built by Naimur Rahman
 
-> “Still under construction – because I want it to be done right.”  
-> Thanks for visiting!
+> Thank you for visiting!  
+> This portfolio is built with passion and precision to represent my work in the best possible way.
