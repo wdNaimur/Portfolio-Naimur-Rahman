@@ -132,7 +132,7 @@ const Navbar = () => {
 
             {/* Resume download */}
             <a
-              // href="/Naimur_Resume.pdf"
+              href="/Naimur-Resume.pdf"
               download
               className="btn-outline btn btn-primary rounded-full hover:text-base-200 shadow-none active:scale-90 transition-all duration-300 select-none ease-in-out hover:bg-primary border-2 border-primary bg-base-100/40"
             >
